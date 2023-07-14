@@ -8,3 +8,4 @@
 
 ## reference notebooks
 * https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/notebook
+* https://www.kaggle.com/code/gemmin/speech-emotion-recognition-90
