@@ -18,7 +18,7 @@
 * https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca
 * https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53
 
-## MFCC references
+## mfcc references
 * https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779
 
 ## pre-processing references
