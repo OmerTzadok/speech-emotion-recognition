@@ -6,6 +6,21 @@
 * https://www.kaggle.com/datasets/ejlok1/cremad
 * https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee
 
-## reference notebooks
+## emotions reference notebooks
 * https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/notebook
 * https://www.kaggle.com/code/gemmin/speech-emotion-recognition-90
+
+## other notebooks references
+* https://www.kaggle.com/code/doofensmirtz/85-validation-accuracy-tensorflow
+* https://www.kaggle.com/code/karnikakapoor/music-generation-lstm
+* 
+
+## mel spectogram references
+* https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca
+* https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53
+
+## MFCC references
+* https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779
+
+## pre-processing references
+* https://www.youtube.com/watch?v=O04v3cgHNeM&ab_channel=ValerioVelardo-TheSoundofAI
