@@ -23,3 +23,7 @@
 
 ## pre-processing references
 * https://www.youtube.com/watch?v=O04v3cgHNeM&ab_channel=ValerioVelardo-TheSoundofAI
+
+## accuracy references
+* https://saturncloud.io/blog/understanding-the-output-of-keras-categorical-accuracy-metrics/#:~:text=Categorical%20accuracy%20is%20a%20metric,labels%20are%20one%2Dhot%20encoded.
+* https://towardsdatascience.com/keras-accuracy-metrics-8572eb479ec7
