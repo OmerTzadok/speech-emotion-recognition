@@ -14,6 +14,7 @@
 ## other notebooks references
 * https://www.kaggle.com/code/doofensmirtz/85-validation-accuracy-tensorflow
 * https://www.kaggle.com/code/karnikakapoor/music-generation-lstm
+* https://github.com/jeffprosise/Deep-Learning/blob/master/Audio%20Classification%20(CNN).ipynb
 
 ## mel spectogram references
 * https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca
