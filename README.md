@@ -23,11 +23,12 @@
 ## mfcc references
 * https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779
 
-## pre-processing references
+## autoencoding references
 * https://medium.com/analytics-vidhya/adding-noise-to-audio-clips-5d8cee24ccb8
 * https://github.com/sleekEagle/audio_processing/blob/master/mix_noise.py
 * https://github.com/christianversloot/machine-learning-articles/blob/main/creating-a-signal-noise-removal-autoencoder-with-keras.md
-
+* https://github.com/christianversloot/keras-autoencoders/tree/master
+  
 ## accuracy references
 * https://saturncloud.io/blog/understanding-the-output-of-keras-categorical-accuracy-metrics/#:~:text=Categorical%20accuracy%20is%20a%20metric,labels%20are%20one%2Dhot%20encoded.
 * https://towardsdatascience.com/keras-accuracy-metrics-8572eb479ec7
