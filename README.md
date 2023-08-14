@@ -1,8 +1,9 @@
 # speech-emotion-recognition
 
-This projects aims to implement a model that will analyze a speech audio input, identify and classify the expressed emotion.
-It demosntrates the usages of CNNs on MFCC features, RNNs (LSTM) on MFCC and ZCR features and MobileNetV2 transfer learning on mel spectogram images.
-A concatenated model using all of the above models was also demonstrated with some success.
+* This projects aims to implement a model that will analyze a speech audio input, identify and classify the expressed emotion.
+* It demosntrates the usages of CNNs on MFCC features, RNNs (LSTM) on MFCC and ZCR features and MobileNetV2 transfer learning on mel spectogram images.
+* A concatenated model using all of the above models was also demonstrated with some success.
+* A audio noise reduction Autoencoder using CNNs and Trasposed CNNs was also developed and shown to work to some degree.
 
 
 ## datasets links
