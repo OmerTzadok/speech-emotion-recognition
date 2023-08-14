@@ -1,5 +1,10 @@
 # speech-emotion-recognition
 
+This projects aims to implement a model that will analyze a speech audio input, identify and classify the expressed emotion.
+It demosntrates the usages of CNNs on MFCC features, RNNs (LSTM) on MFCC and ZCR features and MobileNetV2 transfer learning on mel spectogram images.
+A concatenated model using all of the above models was also demonstrated with some success.
+
+
 ## datasets links
 * https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 * https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
