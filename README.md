@@ -5,6 +5,9 @@
 * A concatenated model using all of the above models was also demonstrated with some success.
 * A audio noise reduction Autoencoder using CNNs and Trasposed CNNs was also developed and shown to work to some degree.
 
+## project presentation link
+* https://docs.google.com/presentation/d/e/2PACX-1vTcXcmWEksLEtE0Rdc_UO4CTmPvUeCf7oTiEoY9r974cvtCME7I_LlEge8tLO9JqWlyBR5CLIiwBXFZ/pub?start=false&loop=false
+
 
 ## datasets links
 * https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
